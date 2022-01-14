@@ -1,0 +1,230 @@
+body {
+  margin: 0px;
+  font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+.header-container {
+  height: 80px;
+  width: 100%;
+  background: black;
+  position: fixed;
+}
+.header {
+  height: 100px;
+  width: 1000px;
+
+  margin: auto;
+}
+.logo {
+  width: 200px;
+  height: 100px;
+  padding-top: 20px;
+  float: left;
+}
+.nav {
+  width: 800px;
+  height: 100px;
+
+  float: left;
+  padding-top: 35px;
+  padding-left: 295px;
+}
+.nav a {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-size: 16px;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+  padding-left: 25px;
+}
+.nav a span {
+  color: #c1c2c0;
+}
+.nav a span:hover {
+  color: #1ed760;
+}
+.nav a:hover {
+  color: #1ed760;
+}
+.body-1 {
+  height: 600px;
+  width: 100%;
+  background-color: rgb(237 99 186);
+}
+.content-1 {
+  width: 50%;
+  height: 600px;
+  float: left;
+  padding-left: 100px;
+  padding-top: 80px;
+  color: #202f72;
+}
+.content-1 h1 {
+  font-size: 60px;
+  font-weight: 600;
+}
+.content-1 p {
+  font-size: 24px;
+}
+.content-1 h4 {
+  letter-spacing: 2px;
+}
+.content-1 img {
+  width: 120px;
+  height: auto;
+}
+#playstore {
+  height: 38px;
+  width: 130px;
+}
+.content-1 a span {
+  font-size: 16px;
+  font-weight: bold;
+}
+.background-1 {
+  height: 600px;
+  width: 50%;
+  float: left;
+  background-color: rgb(230, 16, 184);
+}
+.body-2 {
+  width: 100%;
+  height: 850px;
+  background-color: rgb(41, 65, 171);
+  background-image: url(bursts.svg);
+  background-size: 175%;
+  background-position: 46% 4%;
+  margin-top: 0px;
+}
+.content-2 {
+  height: 80%;
+  width: 80%;
+  margin: auto;
+  padding-left: 40px;
+  padding-top: 1px;
+}
+.content-2 p {
+  font-size: 140px;
+  font-weight: 600;
+  color: #1ed760;
+}
+.content-2 h6 {
+  font-size: 20px;
+  color: #1ed760;
+  margin-left: 258px;
+}
+.content-2 button {
+  height: 45px;
+  width: 173px;
+  border-radius: 22px;
+  margin-left: 415px;
+  background: #1ed760;
+  color: rgb(41, 65, 171);
+  font-weight: bolder;
+  border: aliceblue;
+}
+.footer {
+  width: 100%;
+  height: 450px;
+  background: black;
+  padding-top: 70px;
+}
+.footer-logo {
+  width: 20%;
+  height: 300px;
+  float: left;
+}
+.footer-logo img {
+  float: right;
+}
+.link-1 {
+  float: left;
+  width: 15%;
+  height: 300px;
+  padding-top: 24px;
+  padding-left: 60px;
+}
+.link-1 a {
+  text-decoration: none;
+  color: white;
+}
+.link-1 a:hover {
+  color: #1ed760;
+}
+.link-1 p {
+  color: #c1c2c0;
+  font-size: 11px;
+  font-weight: 700;
+}
+.logo-2 {
+  height: 300px;
+  width: 35%;
+  float: left;
+  padding-left: 173px;
+  padding-top: 30px;
+}
+.instagram {
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  background-color: #222326;
+  float: left;
+  margin-left: 14px;
+}
+.instagram img {
+  width: 24px;
+  margin-top: 14px;
+  height: 24px;
+  background: #fff;
+  margin-left: 14px;
+}
+.bottom-link a{
+    color: #fff;
+    text-decoration: none;
+    font-size: small;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.bottom-link{
+    width: 84%;
+    height: 75px;
+    background: black;
+    padding-left: 120px;
+    float: left;
+}
+.bottom-right{
+    width: 16%;
+    height: 35px;
+    background: black;
+    float: left;
+}
+.bottom-right img{
+    width: 22px;
+    height: 22px;
+    border: solid;
+    border-radius: 11px
+}
+.bottom-right a{
+    text-decoration: none;
+    color: #fff;
+    font-size: small;
+}
+.bottom-down{
+    text-decoration: none;
+    color: #fff;
+    font-size: small;
+}
+.bottom-down{
+    background: black;
+    background: black;
+    width: auto;
+    height: 62px;
+}
+.bottom-right a :hover{
+    color: #1ed760;
+}
+.bottom-link a :hover{
+    color: #1ed760;
+}
