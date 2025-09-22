@@ -36,7 +36,7 @@ A **static clone of Spotify’s landing page**, built using **HTML** and **CSS**
 ---
 
 ## 📂 File Structure
-
+ ```bash
 spotify-clone/
 ├── index.html # Main HTML file
 ├── style.css # CSS styling
@@ -48,10 +48,12 @@ spotify-clone/
 ├── download.svg # Social media icons
 ├── images.png # Footer image
 └── screenshots/ # Optional: screenshots for README
+```
 
 ## ⚡ Installation & Usage
 
 1. **Clone the repository**
-
+ ```bash
 git clone (https://github.com/yourusername/spotify-clone.git)
 cd spotify-clone
+```
