@@ -1,9 +1,7 @@
 # Spotify Clone - Static Landing Page 🎵
 
-[![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-
-[![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-
+[![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)  
 
 A **static clone of Spotify’s landing page**, built using **HTML** and **CSS**, replicating Spotify’s homepage layout including the header, hero section, call-to-action, and footer. Perfect for showcasing **frontend skills** and **responsive design**.
